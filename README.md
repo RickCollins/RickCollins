@@ -10,6 +10,6 @@ I'm a data scientist with a background in mathematics and machine learning.
 
 ### 📫 Reach me here:
 
-- [LinkedIn]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/rick-collins-9b6642112/))  
+- [LinkedIn](https://www.linkedin.com/in/rick-collins-9b6642112/)  
 
 ---
